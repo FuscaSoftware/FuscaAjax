@@ -228,7 +228,7 @@ function onKeyUp(el, event) {
 }
 
 /**
- * Could be used in in input as onKeyUp-Attribute to call the given function
+ * Could be used in an input as onKeyUp-Attribute to call the given function
  * @param element
  * @param event
  * @param fn
