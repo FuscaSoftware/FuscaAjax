@@ -1,9 +1,12 @@
 /**
  * General JavaScript to Handle Ajax Data, Calls and Responses
- * @author sebastian.braun@fusca.de
+ * @author Sebastan Braun
+ * @link https://github.com/FuscaSoftware/FuscaAjax
+ * @link https://fusca.de
  * @version 2.0 (2017-10-31)
+ * @used at cms.spar-mit.com, m.spar-mit.com, cool-weekend.com
  * uses nprogress.js
- * uses jquery
+ * uses jquery 1.12+
  */
 
 $(document).ajaxStart(function(){
