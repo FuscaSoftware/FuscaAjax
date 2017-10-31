@@ -1,5 +1,5 @@
 /**
- * General JavaScript to Handle Ajax Data, Calls and Responses
+ * General JavaScript to handle Ajax Data, Calls and Responses
  * @author Sebastan Braun
  * @link https://github.com/FuscaSoftware/FuscaAjax
  * @link https://fusca.de
