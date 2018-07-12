@@ -7,7 +7,7 @@ class Contoller
     for ($i = 0; $i < 5, $i++) {
         $rows[] = "<tr><td>$i</td><td>some sample content</td></tr>";
     }
-    $this->data['html']['append'][".box_index .tbody"] = $output[] = implode("",$rows);
+    $this->data['html']['append'][".box_index .tbody"] = implode("",$rows);
     $this->data['html']['value']["[name='filter[" . $box_index['modelname'] . "][skip]']"] = 5;
     $this->show_ajax();
   }
